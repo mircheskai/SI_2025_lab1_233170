@@ -1,0 +1,11 @@
+13. git fetch origin - Ги превзема сите промени на GitHub локално
+14. git checkout <branch_name> - Се префрлам на соодветна гранка
+16. git add . и git commit -m "Added n-th feature" - Додавање на сите датотеки во staging area, и потоа правење commit
+17. git push - Синхронизација со GitHub
+20. Немаше никаков конфликт при спојување на двата Pull requests
+22. git checkout master - Префрлање на master гранката
+git pull - Преземање на променетиот master од GitHub
+git merge 1-remove-a-task-by-name - Спојување на feature гранката со master гранката
+23. git push - Синхронизирање на гранката со GitHub
+25. git add . и git commit "Final commit"
+26. git push
